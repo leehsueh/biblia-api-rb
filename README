@@ -1,0 +1,3 @@
+biblia.rb, a Ruby module for the Biblia API (http://api.biblia.com/docs/)
+
+This module is essentially a wrapper for the Biblia webservice. To use, first set the API_KEY constant before making any calls. You can also set PROXY_HOST and PROXY_PORT if you want to invoke the service through a proxy server.
